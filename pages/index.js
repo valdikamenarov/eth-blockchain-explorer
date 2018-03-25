@@ -31,12 +31,6 @@ class Index extends Component {
               <td>5</td>
               <td>@fat</td>
             </tr>
-            <tr>
-              <th scope="row"><Button>1</Button></th>
-              <td>354768</td>
-              <td>142</td>
-              <td>@twitter</td>
-            </tr>
           </tbody>
         </Table>
 
